@@ -1,4 +1,4 @@
-import { Route, Routes } from "react-router";
+import { Routes } from "react-router";
 import Navbar from "./components/header/Navbar";
 import Carousel from "./components/carousel/Carousel";
 
